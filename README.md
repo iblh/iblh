@@ -3,7 +3,7 @@
 I just graduated from [University of Southern California](https://www.usc.edu/) with a Master degree in Data Science. I'm passionate about data, web dev and contributing to open source.
 
 - 💼 Currently seeking for a position as Data Engineer / Analyst.
-- 💻 Currently interning at [Aeyesafe](https://www.aeyesafe.com/) as a Data Engineer and Product Manager, focusing on data pipelines, databases and data modeling. Aims to provide health care to the elderly through diverse sensor data.
+- 💻 Currently interning at [Aeyesafe](https://www.aeyesafe.com/) as a Data Engineer and Technical Leader, focusing on data pipelines, databases and data modeling. Aims to provide health care to the elderly through diverse sensor data.
 
 **My Interest**:
 
