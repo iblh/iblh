@@ -7,7 +7,7 @@ Currently working as a data engineer at TikTok. I'm passionate about exploring a
 
 - Building efficient data pipelines and warehouses
 - Creating interactive visualizations and dashboards
-- Applying minimalist design principles
+- Applying minimalist aesthetics principles
 
 <!-- **Projects**:
 
@@ -15,7 +15,7 @@ Currently working as a data engineer at TikTok. I'm passionate about exploring a
 - **B**:
 - **C**: -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iblh&theme=graywhite&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolin's github stats" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=iblh&theme=graywhite&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolin's github stats" />
 
 
 <!-- ## Connect with me: -->
