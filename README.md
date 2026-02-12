@@ -1,31 +1,14 @@
-### Hi there, I'm [Bolin Huang](https://blh.im) 👋
-
-Currently working as a data engineer at TikTok. I'm passionate about exploring and implementing cutting-edge technologies to bring data-driven projects to life. In my free time, I also enjoy playing indie games 🎮 while sipping on tea 🍵.
+hi, I'm Bolin (Paul)
 
 
-**My areas of interest**:
-
-- Building efficient data pipelines and warehouses
-- Creating interactive visualizations and dashboards
-- Applying minimalist aesthetics principles
-
-<!-- **Projects**:
-
-- **A**:
-- **B**:
-- **C**: -->
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=iblh&theme=graywhite&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolin's github stats" />
+i work on data platforms and scalable systems,  
+and spend my spare time building small experiments  
+around finance, design, and everyday workflows.  
 
 
-<!-- ## Connect with me: -->
+i like software that feels calm, simple,  
+and built to last.
 
-Feel free to take a look around, don't hesitate to reach out if you have any questions or feedback! 🤝
-
-Also, you can check out my personal website where I write about my experience, thoughts and projects 💻 that I am working on.
-
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://blh.im)
-[<img src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](mailto:ibh@live.com    )
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/bolin-huang/)
-<!-- [<img src="https://img.shields.io/badge/steam-%2312100E.svg?&style=for-the-badge&logo=steam&logoColor=white&color=black" />](https://steamcommunity.com/id/iblh/) -->
-<!-- [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/ibolinh) -->
+[web](https://bolinh.com) |
+[email](mailto:ibh@live.com) |
+[linkedin](https://www.linkedin.com/in/bolin-huang/)
